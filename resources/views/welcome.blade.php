@@ -15,7 +15,7 @@
                     <li><a class="nav-link" href="#resume">Resume</a></li>
                     <li><a class="nav-link" href="#services">Services</a></li>
                     <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                    <li><a class="nav-link" href="#contact">Contacts</a></li>
+                    <li><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -46,10 +46,10 @@
 
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="{{ asset('ui/frontend/assets/img/me.jpg') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('ui/frontend/assets/img/alamin.png') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                    <h3>UI/UX &amp; Graphic Designer</h3>
+                    <h3>Web Designer &amp; Developer</h3>
                     <p class="fst-italic">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore
@@ -58,24 +58,26 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May
-                                        1995</span></li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28 August
+                                        1998</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
-                                    <span>www.example.com</span>
+                                    <span>www.csfworlds.com</span>
                                 </li>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456
-                                        7890</span></li>
-                                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York,
-                                        USA</span></li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong>
+                                    <span>+8801757541997</span>
+                                </li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kushtia, Khulna
+                                        Bangladesh</span></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>24</span></li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor of
+                                        Science</span>
                                 </li>
-                                <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong>
-                                    <span>email@example.com</span>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
+                                    <span>mdalamin7602@gmail.com</span>
                                 </li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
                                     <span>Available</span>
@@ -103,7 +105,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="count-box">
                         <i class="bi bi-emoji-smile"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
+                        <span data-purecounter-start="0" data-purecounter-end="00" data-purecounter-duration="1"
                             class="purecounter"></span>
                         <p>Happy Clients</p>
                     </div>
@@ -112,7 +114,7 @@
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                     <div class="count-box">
                         <i class="bi bi-journal-richtext"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
+                        <span data-purecounter-start="0" data-purecounter-end="03" data-purecounter-duration="1"
                             class="purecounter"></span>
                         <p>Projects</p>
                     </div>
@@ -121,7 +123,7 @@
                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                     <div class="count-box">
                         <i class="bi bi-headset"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
+                        <span data-purecounter-start="0" data-purecounter-end="24/7" data-purecounter-duration="1"
                             class="purecounter"></span>
                         <p>Hours Of Support</p>
                     </div>
@@ -130,7 +132,7 @@
                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                     <div class="count-box">
                         <i class="bi bi-award"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1"
+                        <span data-purecounter-start="0" data-purecounter-end="01" data-purecounter-duration="1"
                             class="purecounter"></span>
                         <p>Awards</p>
                     </div>
@@ -168,9 +170,17 @@
                     </div>
 
                     <div class="progress">
-                        <span class="skill">JavaScript <i class="val">75%</i></span>
+                        <span class="skill">Bootstap <i class="val">90%</i></span>
                         <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                aria-valuemax="100"></div>
+                        </div>
+                    </div>
+
+                    <div class="progress">
+                        <span class="skill">JavaScript <i class="val">65%</i></span>
+                        <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0"
                                 aria-valuemax="100"></div>
                         </div>
                     </div>
@@ -180,7 +190,15 @@
                 <div class="col-lg-6">
 
                     <div class="progress">
-                        <span class="skill">PHP <i class="val">80%</i></span>
+                        <span class="skill">PHP <i class="val">85%</i></span>
+                        <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                aria-valuemax="100"></div>
+                        </div>
+                    </div>
+
+                    <div class="progress">
+                        <span class="skill">Laravel <i class="val">80%</i></span>
                         <div class="progress-bar-wrap">
                             <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
                                 aria-valuemax="100"></div>
@@ -188,17 +206,17 @@
                     </div>
 
                     <div class="progress">
-                        <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+                        <span class="skill">Ajax <i class="val">60%</i></span>
                         <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0"
                                 aria-valuemax="100"></div>
                         </div>
                     </div>
 
                     <div class="progress">
-                        <span class="skill">Photoshop <i class="val">55%</i></span>
+                        <span class="skill">MySql <i class="val">80%</i></span>
                         <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
                                 aria-valuemax="100"></div>
                         </div>
                     </div>
@@ -210,7 +228,7 @@
         </div><!-- End Skills -->
 
         <!-- ======= Interests ======= -->
-        <div class="interests container">
+        {{-- <div class="interests container">
 
             <div class="section-title">
                 <h2>Interests</h2>
@@ -291,10 +309,10 @@
                 </div>
             </div>
 
-        </div><!-- End Interests -->
+        </div><!-- End Interests --> --}}
 
         <!-- ======= Testimonials ======= -->
-        <div class="testimonials container">
+        {{-- <div class="testimonials container">
 
             <div class="section-title">
                 <h2>Testimonials</h2>
@@ -390,7 +408,7 @@
 
             </div>
 
-        </div><!-- End Testimonials  -->
+        </div><!-- End Testimonials  --> --}}
 
     </section><!-- End About Section -->
 
@@ -408,8 +426,10 @@
                     <h3 class="resume-title">Sumary</h3>
                     <div class="resume-item pb-0">
                         <h4>Alice Barkley</h4>
-                        <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and
-                                developing user-centered digital/print marketing material from initial concept to final,
+                        <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing
+                                and
+                                developing user-centered digital/print marketing material from initial concept to
+                                final,
                                 polished deliverable.</em></p>
                         <p>
                         <ul>
@@ -433,7 +453,8 @@
                         <h5>2010 - 2014</h5>
                         <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
                         <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel
-                            ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur
+                            ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
+                            consequatur
                             neque etlon sader mart dila</p>
                     </div>
                 </div>
@@ -447,11 +468,13 @@
                         <ul>
                             <li>Lead in the design, development, and implementation of the graphic, layout, and
                                 production communication materials</li>
-                            <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of
+                            <li>Delegate tasks to the 7 members of the design team and provide counsel on all
+                                aspects of
                                 the project. </li>
                             <li>Supervise the assessment of all graphic materials in order to ensure quality and
                                 accuracy of the design</li>
-                            <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000
+                            <li>Oversee the efficient use of production project budgets ranging from $2,000 -
+                                $25,000
                             </li>
                         </ul>
                         </p>
@@ -462,11 +485,13 @@
                         <p><em>Stepping Stone Advertising, New York, NY</em></p>
                         <p>
                         <ul>
-                            <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and
+                            <li>Developed numerous marketing programs (logos, brochures,infographics, presentations,
+                                and
                                 advertisements).</li>
                             <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
                             <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                            <li>Created 4+ design presentations and proposals a month for clients and account managers
+                            <li>Created 4+ design presentations and proposals a month for clients and account
+                                managers
                             </li>
                         </ul>
                         </p>
